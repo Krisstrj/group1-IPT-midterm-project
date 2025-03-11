@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-//admin credentials
+//admin credentialss
 $valid_username = 'user';
 $valid_password = 'user';
 

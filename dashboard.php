@@ -16,7 +16,7 @@ $sql = "SELECT * FROM books";
 $params = [];
 $types = "";
 
-// Search functionality
+// Search functionalityy
 if (!empty($_GET['search'])) {
     $search = "%" . trim($_GET['search']) . "%"; 
     $sql .= " WHERE title LIKE ? OR author LIKE ? OR genre LIKE ? OR descriptions LIKE ?";

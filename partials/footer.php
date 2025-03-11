@@ -31,7 +31,7 @@
                 <ul>
                     <li><i class="bi bi-geo-alt"></i> 123 Library Street, Book City, BC 12345</li>
                     <li><i class="bi bi-envelope"></i> info@bookmanagement.com</li>
-                    <li><i class="bi bi-phone"></i> +1 234 567 890</li>
+                    <li><i class="bi bi-phone"></i> +1 234 567 894</li>
                 </ul>
             </div>
         </div>

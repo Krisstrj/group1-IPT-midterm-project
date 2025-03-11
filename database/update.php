@@ -1,7 +1,7 @@
 <?php
 session_start();
 include('database.php');
-
+//
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $id = $_POST['id'];
     $title = $_POST['title'];

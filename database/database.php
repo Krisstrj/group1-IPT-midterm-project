@@ -1,4 +1,5 @@
 <?php
+//
     $server_name = "localhost";
     $db_name = "books_database";
     $username = "root";
