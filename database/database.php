@@ -1,10 +1,10 @@
 <?php
-//
+
     $server_name = "localhost";
     $db_name = "books_database";
     $username = "root";
     $password = "";
-
+    // Create connection
     $conn = new mysqli($server_name, $username, $password, $db_name);
 
     if ($conn->connect_error) {
