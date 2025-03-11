@@ -3,7 +3,7 @@ session_start();
 include('database.php');
 
 
-//// Enable error reportings for debugging
+///Enable error reportings for debugging
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
